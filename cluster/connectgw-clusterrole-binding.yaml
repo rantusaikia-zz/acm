@@ -6,7 +6,9 @@ subjects:
 - kind: User
   name: rantu.saikia@devoteam.com
 - kind: User
-  name: andytzou@google.com    
+  name: andytzou@google.com
+- kind: User
+  name: mohit.gupta@devoteam.com    
 roleRef:
   kind: ClusterRole
   name: cluster-admin

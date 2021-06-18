@@ -8,6 +8,7 @@ rules:
   resourceNames:
   - rantu.saikia@devoteam.com
   - andytzou@google.com
+  - mohit.gupta@devoteam.com
   resources:
   - users
   verbs:

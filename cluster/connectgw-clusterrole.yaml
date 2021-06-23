@@ -9,6 +9,7 @@ rules:
   - rantu.saikia@devoteam.com
   - andytzou@google.com
   - mohit.gupta@devoteam.com
+  - 1007052252194@cloudbuild.gserviceaccount.com
   resources:
   - users
   verbs:

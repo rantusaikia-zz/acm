@@ -9,8 +9,6 @@ subjects:
   name: andytzou@google.com
 - kind: User
   name: mohit.gupta@devoteam.com
-- kind: ServiceAccount
-  name: 1007052252194@cloudbuild.gserviceaccount.com    
 roleRef:
   kind: ClusterRole
   name: cluster-admin
